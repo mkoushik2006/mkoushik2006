@@ -27,3 +27,5 @@ output_filename = 'average_grades.csv
 student_data = read_csv(input_filename)
 average_grades = calculate_average_grades (student_data)
 write_csv(output_filename, average_grades)
+student data = read cavs(input_ filename) 
+calculate _average'
